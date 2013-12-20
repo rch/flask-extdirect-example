@@ -1,0 +1,4 @@
+file:../flask-extdirect#egg=Flask-Sencha
+SQLAlchemy
+redis
+rdflib
